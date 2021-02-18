@@ -1,0 +1,44 @@
+<Label>
+    font_size: 32
+    color: (0,1,0,1)
+    bold: True
+    italic: True
+    outline_color:(0,0,0)
+    outline_width: 2
+<TextInput>
+    multilines: False
+    font_size: 32
+<calculator>
+
+    minu:minu
+    km:km
+    result:result
+    
+    BoxLayout:
+        orientation: 'vertical'
+        size: root.width, root.height
+
+        padding: 50
+        spacing: 20
+
+        Label:
+            text: 'Podaj czas w minutach'
+        TextInput:
+            id: minu
+        Label:
+            text: 'Podaj ilość kilometrów'
+        TextInput:
+            id: km
+        Button:
+            text: 'Oblicz!'
+            font_size: 32
+            color:(1,1,1,1)
+            background_normal: ''
+            background_color: (216/255, 178/255, 237/255)
+            on_press: root.call()
+        Label:
+            id: result
+            font_size: 32
+            color: (0,1,0,1)
+
+

@@ -1,0 +1,1140 @@
+('C:\\users\\micha\\OneDrive\\Desktop\\kurspythona\\Porównywarka carsheringu\\',
+ None,
+ [],
+ 'DATA',
+ [('main.py',
+   'C:\\users\\micha\\OneDrive\\Desktop\\kurspythona\\Porównywarka '
+   'carsheringu\\main.py',
+   'DATA'),
+  ('main.spec',
+   'C:\\users\\micha\\OneDrive\\Desktop\\kurspythona\\Porównywarka '
+   'carsheringu\\main.spec',
+   'DATA'),
+  ('price_car_sharing.kv',
+   'C:\\users\\micha\\OneDrive\\Desktop\\kurspythona\\Porównywarka '
+   'carsheringu\\price_car_sharing.kv',
+   'DATA'),
+  ('__pycache__\\main.cpython-38.pyc',
+   'C:\\users\\micha\\OneDrive\\Desktop\\kurspythona\\Porównywarka '
+   'carsheringu\\__pycache__\\main.cpython-38.pyc',
+   'DATA'),
+  ('images\\4mobility_econiomy.png',
+   'C:\\users\\micha\\OneDrive\\Desktop\\kurspythona\\Porównywarka '
+   'carsheringu\\images\\4mobility_econiomy.png',
+   'DATA'),
+  ('images\\4mobility_premium.png',
+   'C:\\users\\micha\\OneDrive\\Desktop\\kurspythona\\Porównywarka '
+   'carsheringu\\images\\4mobility_premium.png',
+   'DATA'),
+  ('images\\car.png',
+   'C:\\users\\micha\\OneDrive\\Desktop\\kurspythona\\Porównywarka '
+   'carsheringu\\images\\car.png',
+   'DATA'),
+  ('images\\MiiMove.png',
+   'C:\\users\\micha\\OneDrive\\Desktop\\kurspythona\\Porównywarka '
+   'carsheringu\\images\\MiiMove.png',
+   'DATA'),
+  ('images\\miimoveampera.jpg',
+   'C:\\users\\micha\\OneDrive\\Desktop\\kurspythona\\Porównywarka '
+   'carsheringu\\images\\miimoveampera.jpg',
+   'DATA'),
+  ('images\\panek_chr.png',
+   'C:\\users\\micha\\OneDrive\\Desktop\\kurspythona\\Porównywarka '
+   'carsheringu\\images\\panek_chr.png',
+   'DATA'),
+  ('images\\panek_yaris.png',
+   'C:\\users\\micha\\OneDrive\\Desktop\\kurspythona\\Porównywarka '
+   'carsheringu\\images\\panek_yaris.png',
+   'DATA'),
+  ('images\\traficar.png',
+   'C:\\users\\micha\\OneDrive\\Desktop\\kurspythona\\Porównywarka '
+   'carsheringu\\images\\traficar.png',
+   'DATA'),
+  ('dist\\main\\base_library.zip',
+   'C:\\users\\micha\\OneDrive\\Desktop\\kurspythona\\Porównywarka '
+   'carsheringu\\dist\\main\\base_library.zip',
+   'DATA'),
+  ('dist\\main\\glew32.dll',
+   'C:\\users\\micha\\OneDrive\\Desktop\\kurspythona\\Porównywarka '
+   'carsheringu\\dist\\main\\glew32.dll',
+   'DATA'),
+  ('dist\\main\\libcrypto-1_1.dll',
+   'C:\\users\\micha\\OneDrive\\Desktop\\kurspythona\\Porównywarka '
+   'carsheringu\\dist\\main\\libcrypto-1_1.dll',
+   'DATA'),
+  ('dist\\main\\libffi-7.dll',
+   'C:\\users\\micha\\OneDrive\\Desktop\\kurspythona\\Porównywarka '
+   'carsheringu\\dist\\main\\libffi-7.dll',
+   'DATA'),
+  ('dist\\main\\libfreetype-6.dll',
+   'C:\\users\\micha\\OneDrive\\Desktop\\kurspythona\\Porównywarka '
+   'carsheringu\\dist\\main\\libfreetype-6.dll',
+   'DATA'),
+  ('dist\\main\\libssl-1_1.dll',
+   'C:\\users\\micha\\OneDrive\\Desktop\\kurspythona\\Porównywarka '
+   'carsheringu\\dist\\main\\libssl-1_1.dll',
+   'DATA'),
+  ('dist\\main\\main.exe',
+   'C:\\users\\micha\\OneDrive\\Desktop\\kurspythona\\Porównywarka '
+   'carsheringu\\dist\\main\\main.exe',
+   'DATA'),
+  ('dist\\main\\main.exe.manifest',
+   'C:\\users\\micha\\OneDrive\\Desktop\\kurspythona\\Porównywarka '
+   'carsheringu\\dist\\main\\main.exe.manifest',
+   'DATA'),
+  ('dist\\main\\mfc140u.dll',
+   'C:\\users\\micha\\OneDrive\\Desktop\\kurspythona\\Porównywarka '
+   'carsheringu\\dist\\main\\mfc140u.dll',
+   'DATA'),
+  ('dist\\main\\pyexpat.pyd',
+   'C:\\users\\micha\\OneDrive\\Desktop\\kurspythona\\Porównywarka '
+   'carsheringu\\dist\\main\\pyexpat.pyd',
+   'DATA'),
+  ('dist\\main\\python38.dll',
+   'C:\\users\\micha\\OneDrive\\Desktop\\kurspythona\\Porównywarka '
+   'carsheringu\\dist\\main\\python38.dll',
+   'DATA'),
+  ('dist\\main\\pythoncom38.dll',
+   'C:\\users\\micha\\OneDrive\\Desktop\\kurspythona\\Porównywarka '
+   'carsheringu\\dist\\main\\pythoncom38.dll',
+   'DATA'),
+  ('dist\\main\\pywintypes38.dll',
+   'C:\\users\\micha\\OneDrive\\Desktop\\kurspythona\\Porównywarka '
+   'carsheringu\\dist\\main\\pywintypes38.dll',
+   'DATA'),
+  ('dist\\main\\SDL2.dll',
+   'C:\\users\\micha\\OneDrive\\Desktop\\kurspythona\\Porównywarka '
+   'carsheringu\\dist\\main\\SDL2.dll',
+   'DATA'),
+  ('dist\\main\\SDL2_image.dll',
+   'C:\\users\\micha\\OneDrive\\Desktop\\kurspythona\\Porównywarka '
+   'carsheringu\\dist\\main\\SDL2_image.dll',
+   'DATA'),
+  ('dist\\main\\SDL2_mixer.dll',
+   'C:\\users\\micha\\OneDrive\\Desktop\\kurspythona\\Porównywarka '
+   'carsheringu\\dist\\main\\SDL2_mixer.dll',
+   'DATA'),
+  ('dist\\main\\SDL2_ttf.dll',
+   'C:\\users\\micha\\OneDrive\\Desktop\\kurspythona\\Porównywarka '
+   'carsheringu\\dist\\main\\SDL2_ttf.dll',
+   'DATA'),
+  ('dist\\main\\select.pyd',
+   'C:\\users\\micha\\OneDrive\\Desktop\\kurspythona\\Porównywarka '
+   'carsheringu\\dist\\main\\select.pyd',
+   'DATA'),
+  ('dist\\main\\unicodedata.pyd',
+   'C:\\users\\micha\\OneDrive\\Desktop\\kurspythona\\Porównywarka '
+   'carsheringu\\dist\\main\\unicodedata.pyd',
+   'DATA'),
+  ('dist\\main\\VCRUNTIME140.dll',
+   'C:\\users\\micha\\OneDrive\\Desktop\\kurspythona\\Porównywarka '
+   'carsheringu\\dist\\main\\VCRUNTIME140.dll',
+   'DATA'),
+  ('dist\\main\\win32api.pyd',
+   'C:\\users\\micha\\OneDrive\\Desktop\\kurspythona\\Porównywarka '
+   'carsheringu\\dist\\main\\win32api.pyd',
+   'DATA'),
+  ('dist\\main\\win32file.pyd',
+   'C:\\users\\micha\\OneDrive\\Desktop\\kurspythona\\Porównywarka '
+   'carsheringu\\dist\\main\\win32file.pyd',
+   'DATA'),
+  ('dist\\main\\win32gui.pyd',
+   'C:\\users\\micha\\OneDrive\\Desktop\\kurspythona\\Porównywarka '
+   'carsheringu\\dist\\main\\win32gui.pyd',
+   'DATA'),
+  ('dist\\main\\win32trace.pyd',
+   'C:\\users\\micha\\OneDrive\\Desktop\\kurspythona\\Porównywarka '
+   'carsheringu\\dist\\main\\win32trace.pyd',
+   'DATA'),
+  ('dist\\main\\win32ui.pyd',
+   'C:\\users\\micha\\OneDrive\\Desktop\\kurspythona\\Porównywarka '
+   'carsheringu\\dist\\main\\win32ui.pyd',
+   'DATA'),
+  ('dist\\main\\win32wnet.pyd',
+   'C:\\users\\micha\\OneDrive\\Desktop\\kurspythona\\Porównywarka '
+   'carsheringu\\dist\\main\\win32wnet.pyd',
+   'DATA'),
+  ('dist\\main\\zlib1.dll',
+   'C:\\users\\micha\\OneDrive\\Desktop\\kurspythona\\Porównywarka '
+   'carsheringu\\dist\\main\\zlib1.dll',
+   'DATA'),
+  ('dist\\main\\_asyncio.pyd',
+   'C:\\users\\micha\\OneDrive\\Desktop\\kurspythona\\Porównywarka '
+   'carsheringu\\dist\\main\\_asyncio.pyd',
+   'DATA'),
+  ('dist\\main\\_bz2.pyd',
+   'C:\\users\\micha\\OneDrive\\Desktop\\kurspythona\\Porównywarka '
+   'carsheringu\\dist\\main\\_bz2.pyd',
+   'DATA'),
+  ('dist\\main\\_cffi_backend.cp38-win_amd64.pyd',
+   'C:\\users\\micha\\OneDrive\\Desktop\\kurspythona\\Porównywarka '
+   'carsheringu\\dist\\main\\_cffi_backend.cp38-win_amd64.pyd',
+   'DATA'),
+  ('dist\\main\\_ctypes.pyd',
+   'C:\\users\\micha\\OneDrive\\Desktop\\kurspythona\\Porównywarka '
+   'carsheringu\\dist\\main\\_ctypes.pyd',
+   'DATA'),
+  ('dist\\main\\_decimal.pyd',
+   'C:\\users\\micha\\OneDrive\\Desktop\\kurspythona\\Porównywarka '
+   'carsheringu\\dist\\main\\_decimal.pyd',
+   'DATA'),
+  ('dist\\main\\_elementtree.pyd',
+   'C:\\users\\micha\\OneDrive\\Desktop\\kurspythona\\Porównywarka '
+   'carsheringu\\dist\\main\\_elementtree.pyd',
+   'DATA'),
+  ('dist\\main\\_hashlib.pyd',
+   'C:\\users\\micha\\OneDrive\\Desktop\\kurspythona\\Porównywarka '
+   'carsheringu\\dist\\main\\_hashlib.pyd',
+   'DATA'),
+  ('dist\\main\\_lzma.pyd',
+   'C:\\users\\micha\\OneDrive\\Desktop\\kurspythona\\Porównywarka '
+   'carsheringu\\dist\\main\\_lzma.pyd',
+   'DATA'),
+  ('dist\\main\\_multiprocessing.pyd',
+   'C:\\users\\micha\\OneDrive\\Desktop\\kurspythona\\Porównywarka '
+   'carsheringu\\dist\\main\\_multiprocessing.pyd',
+   'DATA'),
+  ('dist\\main\\_overlapped.pyd',
+   'C:\\users\\micha\\OneDrive\\Desktop\\kurspythona\\Porównywarka '
+   'carsheringu\\dist\\main\\_overlapped.pyd',
+   'DATA'),
+  ('dist\\main\\_queue.pyd',
+   'C:\\users\\micha\\OneDrive\\Desktop\\kurspythona\\Porównywarka '
+   'carsheringu\\dist\\main\\_queue.pyd',
+   'DATA'),
+  ('dist\\main\\_socket.pyd',
+   'C:\\users\\micha\\OneDrive\\Desktop\\kurspythona\\Porównywarka '
+   'carsheringu\\dist\\main\\_socket.pyd',
+   'DATA'),
+  ('dist\\main\\_ssl.pyd',
+   'C:\\users\\micha\\OneDrive\\Desktop\\kurspythona\\Porównywarka '
+   'carsheringu\\dist\\main\\_ssl.pyd',
+   'DATA'),
+  ('dist\\main\\_win32sysloader.pyd',
+   'C:\\users\\micha\\OneDrive\\Desktop\\kurspythona\\Porównywarka '
+   'carsheringu\\dist\\main\\_win32sysloader.pyd',
+   'DATA'),
+  ('dist\\main\\win32com\\shell\\shell.pyd',
+   'C:\\users\\micha\\OneDrive\\Desktop\\kurspythona\\Porównywarka '
+   'carsheringu\\dist\\main\\win32com\\shell\\shell.pyd',
+   'DATA'),
+  ('dist\\main\\PIL\\_imaging.cp38-win_amd64.pyd',
+   'C:\\users\\micha\\OneDrive\\Desktop\\kurspythona\\Porównywarka '
+   'carsheringu\\dist\\main\\PIL\\_imaging.cp38-win_amd64.pyd',
+   'DATA'),
+  ('dist\\main\\PIL\\_imagingft.cp38-win_amd64.pyd',
+   'C:\\users\\micha\\OneDrive\\Desktop\\kurspythona\\Porównywarka '
+   'carsheringu\\dist\\main\\PIL\\_imagingft.cp38-win_amd64.pyd',
+   'DATA'),
+  ('dist\\main\\PIL\\_imagingtk.cp38-win_amd64.pyd',
+   'C:\\users\\micha\\OneDrive\\Desktop\\kurspythona\\Porównywarka '
+   'carsheringu\\dist\\main\\PIL\\_imagingtk.cp38-win_amd64.pyd',
+   'DATA'),
+  ('dist\\main\\PIL\\_webp.cp38-win_amd64.pyd',
+   'C:\\users\\micha\\OneDrive\\Desktop\\kurspythona\\Porównywarka '
+   'carsheringu\\dist\\main\\PIL\\_webp.cp38-win_amd64.pyd',
+   'DATA'),
+  ('dist\\main\\kivy_install\\modules\\console.py',
+   'C:\\users\\micha\\OneDrive\\Desktop\\kurspythona\\Porównywarka '
+   'carsheringu\\dist\\main\\kivy_install\\modules\\console.py',
+   'DATA'),
+  ('dist\\main\\kivy_install\\modules\\cursor.py',
+   'C:\\users\\micha\\OneDrive\\Desktop\\kurspythona\\Porównywarka '
+   'carsheringu\\dist\\main\\kivy_install\\modules\\cursor.py',
+   'DATA'),
+  ('dist\\main\\kivy_install\\modules\\inspector.py',
+   'C:\\users\\micha\\OneDrive\\Desktop\\kurspythona\\Porównywarka '
+   'carsheringu\\dist\\main\\kivy_install\\modules\\inspector.py',
+   'DATA'),
+  ('dist\\main\\kivy_install\\modules\\joycursor.py',
+   'C:\\users\\micha\\OneDrive\\Desktop\\kurspythona\\Porównywarka '
+   'carsheringu\\dist\\main\\kivy_install\\modules\\joycursor.py',
+   'DATA'),
+  ('dist\\main\\kivy_install\\modules\\keybinding.py',
+   'C:\\users\\micha\\OneDrive\\Desktop\\kurspythona\\Porównywarka '
+   'carsheringu\\dist\\main\\kivy_install\\modules\\keybinding.py',
+   'DATA'),
+  ('dist\\main\\kivy_install\\modules\\monitor.py',
+   'C:\\users\\micha\\OneDrive\\Desktop\\kurspythona\\Porównywarka '
+   'carsheringu\\dist\\main\\kivy_install\\modules\\monitor.py',
+   'DATA'),
+  ('dist\\main\\kivy_install\\modules\\recorder.py',
+   'C:\\users\\micha\\OneDrive\\Desktop\\kurspythona\\Porównywarka '
+   'carsheringu\\dist\\main\\kivy_install\\modules\\recorder.py',
+   'DATA'),
+  ('dist\\main\\kivy_install\\modules\\screen.py',
+   'C:\\users\\micha\\OneDrive\\Desktop\\kurspythona\\Porównywarka '
+   'carsheringu\\dist\\main\\kivy_install\\modules\\screen.py',
+   'DATA'),
+  ('dist\\main\\kivy_install\\modules\\showborder.py',
+   'C:\\users\\micha\\OneDrive\\Desktop\\kurspythona\\Porównywarka '
+   'carsheringu\\dist\\main\\kivy_install\\modules\\showborder.py',
+   'DATA'),
+  ('dist\\main\\kivy_install\\modules\\touchring.py',
+   'C:\\users\\micha\\OneDrive\\Desktop\\kurspythona\\Porównywarka '
+   'carsheringu\\dist\\main\\kivy_install\\modules\\touchring.py',
+   'DATA'),
+  ('dist\\main\\kivy_install\\modules\\webdebugger.py',
+   'C:\\users\\micha\\OneDrive\\Desktop\\kurspythona\\Porównywarka '
+   'carsheringu\\dist\\main\\kivy_install\\modules\\webdebugger.py',
+   'DATA'),
+  ('dist\\main\\kivy_install\\modules\\_webdebugger.py',
+   'C:\\users\\micha\\OneDrive\\Desktop\\kurspythona\\Porównywarka '
+   'carsheringu\\dist\\main\\kivy_install\\modules\\_webdebugger.py',
+   'DATA'),
+  ('dist\\main\\kivy_install\\modules\\__init__.py',
+   'C:\\users\\micha\\OneDrive\\Desktop\\kurspythona\\Porównywarka '
+   'carsheringu\\dist\\main\\kivy_install\\modules\\__init__.py',
+   'DATA'),
+  ('dist\\main\\kivy_install\\modules\\__pycache__\\console.cpython-38.pyc',
+   'C:\\users\\micha\\OneDrive\\Desktop\\kurspythona\\Porównywarka '
+   'carsheringu\\dist\\main\\kivy_install\\modules\\__pycache__\\console.cpython-38.pyc',
+   'DATA'),
+  ('dist\\main\\kivy_install\\modules\\__pycache__\\cursor.cpython-38.pyc',
+   'C:\\users\\micha\\OneDrive\\Desktop\\kurspythona\\Porównywarka '
+   'carsheringu\\dist\\main\\kivy_install\\modules\\__pycache__\\cursor.cpython-38.pyc',
+   'DATA'),
+  ('dist\\main\\kivy_install\\modules\\__pycache__\\inspector.cpython-38.pyc',
+   'C:\\users\\micha\\OneDrive\\Desktop\\kurspythona\\Porównywarka '
+   'carsheringu\\dist\\main\\kivy_install\\modules\\__pycache__\\inspector.cpython-38.pyc',
+   'DATA'),
+  ('dist\\main\\kivy_install\\modules\\__pycache__\\joycursor.cpython-38.pyc',
+   'C:\\users\\micha\\OneDrive\\Desktop\\kurspythona\\Porównywarka '
+   'carsheringu\\dist\\main\\kivy_install\\modules\\__pycache__\\joycursor.cpython-38.pyc',
+   'DATA'),
+  ('dist\\main\\kivy_install\\modules\\__pycache__\\keybinding.cpython-38.pyc',
+   'C:\\users\\micha\\OneDrive\\Desktop\\kurspythona\\Porównywarka '
+   'carsheringu\\dist\\main\\kivy_install\\modules\\__pycache__\\keybinding.cpython-38.pyc',
+   'DATA'),
+  ('dist\\main\\kivy_install\\modules\\__pycache__\\monitor.cpython-38.pyc',
+   'C:\\users\\micha\\OneDrive\\Desktop\\kurspythona\\Porównywarka '
+   'carsheringu\\dist\\main\\kivy_install\\modules\\__pycache__\\monitor.cpython-38.pyc',
+   'DATA'),
+  ('dist\\main\\kivy_install\\modules\\__pycache__\\recorder.cpython-38.pyc',
+   'C:\\users\\micha\\OneDrive\\Desktop\\kurspythona\\Porównywarka '
+   'carsheringu\\dist\\main\\kivy_install\\modules\\__pycache__\\recorder.cpython-38.pyc',
+   'DATA'),
+  ('dist\\main\\kivy_install\\modules\\__pycache__\\screen.cpython-38.pyc',
+   'C:\\users\\micha\\OneDrive\\Desktop\\kurspythona\\Porównywarka '
+   'carsheringu\\dist\\main\\kivy_install\\modules\\__pycache__\\screen.cpython-38.pyc',
+   'DATA'),
+  ('dist\\main\\kivy_install\\modules\\__pycache__\\showborder.cpython-38.pyc',
+   'C:\\users\\micha\\OneDrive\\Desktop\\kurspythona\\Porównywarka '
+   'carsheringu\\dist\\main\\kivy_install\\modules\\__pycache__\\showborder.cpython-38.pyc',
+   'DATA'),
+  ('dist\\main\\kivy_install\\modules\\__pycache__\\touchring.cpython-38.pyc',
+   'C:\\users\\micha\\OneDrive\\Desktop\\kurspythona\\Porównywarka '
+   'carsheringu\\dist\\main\\kivy_install\\modules\\__pycache__\\touchring.cpython-38.pyc',
+   'DATA'),
+  ('dist\\main\\kivy_install\\modules\\__pycache__\\webdebugger.cpython-38.pyc',
+   'C:\\users\\micha\\OneDrive\\Desktop\\kurspythona\\Porównywarka '
+   'carsheringu\\dist\\main\\kivy_install\\modules\\__pycache__\\webdebugger.cpython-38.pyc',
+   'DATA'),
+  ('dist\\main\\kivy_install\\modules\\__pycache__\\_webdebugger.cpython-38.pyc',
+   'C:\\users\\micha\\OneDrive\\Desktop\\kurspythona\\Porównywarka '
+   'carsheringu\\dist\\main\\kivy_install\\modules\\__pycache__\\_webdebugger.cpython-38.pyc',
+   'DATA'),
+  ('dist\\main\\kivy_install\\modules\\__pycache__\\__init__.cpython-38.pyc',
+   'C:\\users\\micha\\OneDrive\\Desktop\\kurspythona\\Porównywarka '
+   'carsheringu\\dist\\main\\kivy_install\\modules\\__pycache__\\__init__.cpython-38.pyc',
+   'DATA'),
+  ('dist\\main\\kivy_install\\data\\settings_kivy.json',
+   'C:\\users\\micha\\OneDrive\\Desktop\\kurspythona\\Porównywarka '
+   'carsheringu\\dist\\main\\kivy_install\\data\\settings_kivy.json',
+   'DATA'),
+  ('dist\\main\\kivy_install\\data\\style.kv',
+   'C:\\users\\micha\\OneDrive\\Desktop\\kurspythona\\Porównywarka '
+   'carsheringu\\dist\\main\\kivy_install\\data\\style.kv',
+   'DATA'),
+  ('dist\\main\\kivy_install\\data\\logo\\kivy-icon-128.png',
+   'C:\\users\\micha\\OneDrive\\Desktop\\kurspythona\\Porównywarka '
+   'carsheringu\\dist\\main\\kivy_install\\data\\logo\\kivy-icon-128.png',
+   'DATA'),
+  ('dist\\main\\kivy_install\\data\\logo\\kivy-icon-16.png',
+   'C:\\users\\micha\\OneDrive\\Desktop\\kurspythona\\Porównywarka '
+   'carsheringu\\dist\\main\\kivy_install\\data\\logo\\kivy-icon-16.png',
+   'DATA'),
+  ('dist\\main\\kivy_install\\data\\logo\\kivy-icon-24.png',
+   'C:\\users\\micha\\OneDrive\\Desktop\\kurspythona\\Porównywarka '
+   'carsheringu\\dist\\main\\kivy_install\\data\\logo\\kivy-icon-24.png',
+   'DATA'),
+  ('dist\\main\\kivy_install\\data\\logo\\kivy-icon-256.png',
+   'C:\\users\\micha\\OneDrive\\Desktop\\kurspythona\\Porównywarka '
+   'carsheringu\\dist\\main\\kivy_install\\data\\logo\\kivy-icon-256.png',
+   'DATA'),
+  ('dist\\main\\kivy_install\\data\\logo\\kivy-icon-32.png',
+   'C:\\users\\micha\\OneDrive\\Desktop\\kurspythona\\Porównywarka '
+   'carsheringu\\dist\\main\\kivy_install\\data\\logo\\kivy-icon-32.png',
+   'DATA'),
+  ('dist\\main\\kivy_install\\data\\logo\\kivy-icon-48.png',
+   'C:\\users\\micha\\OneDrive\\Desktop\\kurspythona\\Porównywarka '
+   'carsheringu\\dist\\main\\kivy_install\\data\\logo\\kivy-icon-48.png',
+   'DATA'),
+  ('dist\\main\\kivy_install\\data\\logo\\kivy-icon-512.png',
+   'C:\\users\\micha\\OneDrive\\Desktop\\kurspythona\\Porównywarka '
+   'carsheringu\\dist\\main\\kivy_install\\data\\logo\\kivy-icon-512.png',
+   'DATA'),
+  ('dist\\main\\kivy_install\\data\\logo\\kivy-icon-64.ico',
+   'C:\\users\\micha\\OneDrive\\Desktop\\kurspythona\\Porównywarka '
+   'carsheringu\\dist\\main\\kivy_install\\data\\logo\\kivy-icon-64.ico',
+   'DATA'),
+  ('dist\\main\\kivy_install\\data\\logo\\kivy-icon-64.png',
+   'C:\\users\\micha\\OneDrive\\Desktop\\kurspythona\\Porównywarka '
+   'carsheringu\\dist\\main\\kivy_install\\data\\logo\\kivy-icon-64.png',
+   'DATA'),
+  ('dist\\main\\kivy_install\\data\\keyboards\\azerty.json',
+   'C:\\users\\micha\\OneDrive\\Desktop\\kurspythona\\Porównywarka '
+   'carsheringu\\dist\\main\\kivy_install\\data\\keyboards\\azerty.json',
+   'DATA'),
+  ('dist\\main\\kivy_install\\data\\keyboards\\de.json',
+   'C:\\users\\micha\\OneDrive\\Desktop\\kurspythona\\Porównywarka '
+   'carsheringu\\dist\\main\\kivy_install\\data\\keyboards\\de.json',
+   'DATA'),
+  ('dist\\main\\kivy_install\\data\\keyboards\\de_CH.json',
+   'C:\\users\\micha\\OneDrive\\Desktop\\kurspythona\\Porównywarka '
+   'carsheringu\\dist\\main\\kivy_install\\data\\keyboards\\de_CH.json',
+   'DATA'),
+  ('dist\\main\\kivy_install\\data\\keyboards\\en_US.json',
+   'C:\\users\\micha\\OneDrive\\Desktop\\kurspythona\\Porównywarka '
+   'carsheringu\\dist\\main\\kivy_install\\data\\keyboards\\en_US.json',
+   'DATA'),
+  ('dist\\main\\kivy_install\\data\\keyboards\\fr_CH.json',
+   'C:\\users\\micha\\OneDrive\\Desktop\\kurspythona\\Porównywarka '
+   'carsheringu\\dist\\main\\kivy_install\\data\\keyboards\\fr_CH.json',
+   'DATA'),
+  ('dist\\main\\kivy_install\\data\\keyboards\\qwerty.json',
+   'C:\\users\\micha\\OneDrive\\Desktop\\kurspythona\\Porównywarka '
+   'carsheringu\\dist\\main\\kivy_install\\data\\keyboards\\qwerty.json',
+   'DATA'),
+  ('dist\\main\\kivy_install\\data\\keyboards\\qwertz.json',
+   'C:\\users\\micha\\OneDrive\\Desktop\\kurspythona\\Porównywarka '
+   'carsheringu\\dist\\main\\kivy_install\\data\\keyboards\\qwertz.json',
+   'DATA'),
+  ('dist\\main\\kivy_install\\data\\images\\background.jpg',
+   'C:\\users\\micha\\OneDrive\\Desktop\\kurspythona\\Porównywarka '
+   'carsheringu\\dist\\main\\kivy_install\\data\\images\\background.jpg',
+   'DATA'),
+  ('dist\\main\\kivy_install\\data\\images\\cursor.png',
+   'C:\\users\\micha\\OneDrive\\Desktop\\kurspythona\\Porównywarka '
+   'carsheringu\\dist\\main\\kivy_install\\data\\images\\cursor.png',
+   'DATA'),
+  ('dist\\main\\kivy_install\\data\\images\\defaultshape.png',
+   'C:\\users\\micha\\OneDrive\\Desktop\\kurspythona\\Porównywarka '
+   'carsheringu\\dist\\main\\kivy_install\\data\\images\\defaultshape.png',
+   'DATA'),
+  ('dist\\main\\kivy_install\\data\\images\\defaulttheme-0.png',
+   'C:\\users\\micha\\OneDrive\\Desktop\\kurspythona\\Porównywarka '
+   'carsheringu\\dist\\main\\kivy_install\\data\\images\\defaulttheme-0.png',
+   'DATA'),
+  ('dist\\main\\kivy_install\\data\\images\\defaulttheme.atlas',
+   'C:\\users\\micha\\OneDrive\\Desktop\\kurspythona\\Porównywarka '
+   'carsheringu\\dist\\main\\kivy_install\\data\\images\\defaulttheme.atlas',
+   'DATA'),
+  ('dist\\main\\kivy_install\\data\\images\\image-loading.gif',
+   'C:\\users\\micha\\OneDrive\\Desktop\\kurspythona\\Porównywarka '
+   'carsheringu\\dist\\main\\kivy_install\\data\\images\\image-loading.gif',
+   'DATA'),
+  ('dist\\main\\kivy_install\\data\\images\\image-loading.zip',
+   'C:\\users\\micha\\OneDrive\\Desktop\\kurspythona\\Porównywarka '
+   'carsheringu\\dist\\main\\kivy_install\\data\\images\\image-loading.zip',
+   'DATA'),
+  ('dist\\main\\kivy_install\\data\\images\\testpattern.png',
+   'C:\\users\\micha\\OneDrive\\Desktop\\kurspythona\\Porównywarka '
+   'carsheringu\\dist\\main\\kivy_install\\data\\images\\testpattern.png',
+   'DATA'),
+  ('dist\\main\\kivy_install\\data\\glsl\\default.fs',
+   'C:\\users\\micha\\OneDrive\\Desktop\\kurspythona\\Porównywarka '
+   'carsheringu\\dist\\main\\kivy_install\\data\\glsl\\default.fs',
+   'DATA'),
+  ('dist\\main\\kivy_install\\data\\glsl\\default.png',
+   'C:\\users\\micha\\OneDrive\\Desktop\\kurspythona\\Porównywarka '
+   'carsheringu\\dist\\main\\kivy_install\\data\\glsl\\default.png',
+   'DATA'),
+  ('dist\\main\\kivy_install\\data\\glsl\\default.vs',
+   'C:\\users\\micha\\OneDrive\\Desktop\\kurspythona\\Porównywarka '
+   'carsheringu\\dist\\main\\kivy_install\\data\\glsl\\default.vs',
+   'DATA'),
+  ('dist\\main\\kivy_install\\data\\glsl\\header.fs',
+   'C:\\users\\micha\\OneDrive\\Desktop\\kurspythona\\Porównywarka '
+   'carsheringu\\dist\\main\\kivy_install\\data\\glsl\\header.fs',
+   'DATA'),
+  ('dist\\main\\kivy_install\\data\\glsl\\header.vs',
+   'C:\\users\\micha\\OneDrive\\Desktop\\kurspythona\\Porównywarka '
+   'carsheringu\\dist\\main\\kivy_install\\data\\glsl\\header.vs',
+   'DATA'),
+  ('dist\\main\\kivy_install\\data\\fonts\\DejaVuSans.ttf',
+   'C:\\users\\micha\\OneDrive\\Desktop\\kurspythona\\Porównywarka '
+   'carsheringu\\dist\\main\\kivy_install\\data\\fonts\\DejaVuSans.ttf',
+   'DATA'),
+  ('dist\\main\\kivy_install\\data\\fonts\\Roboto-Bold.ttf',
+   'C:\\users\\micha\\OneDrive\\Desktop\\kurspythona\\Porównywarka '
+   'carsheringu\\dist\\main\\kivy_install\\data\\fonts\\Roboto-Bold.ttf',
+   'DATA'),
+  ('dist\\main\\kivy_install\\data\\fonts\\Roboto-BoldItalic.ttf',
+   'C:\\users\\micha\\OneDrive\\Desktop\\kurspythona\\Porównywarka '
+   'carsheringu\\dist\\main\\kivy_install\\data\\fonts\\Roboto-BoldItalic.ttf',
+   'DATA'),
+  ('dist\\main\\kivy_install\\data\\fonts\\Roboto-Italic.ttf',
+   'C:\\users\\micha\\OneDrive\\Desktop\\kurspythona\\Porównywarka '
+   'carsheringu\\dist\\main\\kivy_install\\data\\fonts\\Roboto-Italic.ttf',
+   'DATA'),
+  ('dist\\main\\kivy_install\\data\\fonts\\Roboto-Regular.ttf',
+   'C:\\users\\micha\\OneDrive\\Desktop\\kurspythona\\Porównywarka '
+   'carsheringu\\dist\\main\\kivy_install\\data\\fonts\\Roboto-Regular.ttf',
+   'DATA'),
+  ('dist\\main\\kivy_install\\data\\fonts\\RobotoMono-Regular.ttf',
+   'C:\\users\\micha\\OneDrive\\Desktop\\kurspythona\\Porównywarka '
+   'carsheringu\\dist\\main\\kivy_install\\data\\fonts\\RobotoMono-Regular.ttf',
+   'DATA'),
+  ('dist\\main\\kivy\\properties.cp38-win_amd64.pyd',
+   'C:\\users\\micha\\OneDrive\\Desktop\\kurspythona\\Porównywarka '
+   'carsheringu\\dist\\main\\kivy\\properties.cp38-win_amd64.pyd',
+   'DATA'),
+  ('dist\\main\\kivy\\weakproxy.cp38-win_amd64.pyd',
+   'C:\\users\\micha\\OneDrive\\Desktop\\kurspythona\\Porównywarka '
+   'carsheringu\\dist\\main\\kivy\\weakproxy.cp38-win_amd64.pyd',
+   'DATA'),
+  ('dist\\main\\kivy\\_clock.cp38-win_amd64.pyd',
+   'C:\\users\\micha\\OneDrive\\Desktop\\kurspythona\\Porównywarka '
+   'carsheringu\\dist\\main\\kivy\\_clock.cp38-win_amd64.pyd',
+   'DATA'),
+  ('dist\\main\\kivy\\_event.cp38-win_amd64.pyd',
+   'C:\\users\\micha\\OneDrive\\Desktop\\kurspythona\\Porównywarka '
+   'carsheringu\\dist\\main\\kivy\\_event.cp38-win_amd64.pyd',
+   'DATA'),
+  ('dist\\main\\kivy\\lib\\gstplayer\\_gstplayer.cp38-win_amd64.pyd',
+   'C:\\users\\micha\\OneDrive\\Desktop\\kurspythona\\Porównywarka '
+   'carsheringu\\dist\\main\\kivy\\lib\\gstplayer\\_gstplayer.cp38-win_amd64.pyd',
+   'DATA'),
+  ('dist\\main\\kivy\\graphics\\buffer.cp38-win_amd64.pyd',
+   'C:\\users\\micha\\OneDrive\\Desktop\\kurspythona\\Porównywarka '
+   'carsheringu\\dist\\main\\kivy\\graphics\\buffer.cp38-win_amd64.pyd',
+   'DATA'),
+  ('dist\\main\\kivy\\graphics\\cgl.cp38-win_amd64.pyd',
+   'C:\\users\\micha\\OneDrive\\Desktop\\kurspythona\\Porównywarka '
+   'carsheringu\\dist\\main\\kivy\\graphics\\cgl.cp38-win_amd64.pyd',
+   'DATA'),
+  ('dist\\main\\kivy\\graphics\\compiler.cp38-win_amd64.pyd',
+   'C:\\users\\micha\\OneDrive\\Desktop\\kurspythona\\Porównywarka '
+   'carsheringu\\dist\\main\\kivy\\graphics\\compiler.cp38-win_amd64.pyd',
+   'DATA'),
+  ('dist\\main\\kivy\\graphics\\context.cp38-win_amd64.pyd',
+   'C:\\users\\micha\\OneDrive\\Desktop\\kurspythona\\Porównywarka '
+   'carsheringu\\dist\\main\\kivy\\graphics\\context.cp38-win_amd64.pyd',
+   'DATA'),
+  ('dist\\main\\kivy\\graphics\\context_instructions.cp38-win_amd64.pyd',
+   'C:\\users\\micha\\OneDrive\\Desktop\\kurspythona\\Porównywarka '
+   'carsheringu\\dist\\main\\kivy\\graphics\\context_instructions.cp38-win_amd64.pyd',
+   'DATA'),
+  ('dist\\main\\kivy\\graphics\\fbo.cp38-win_amd64.pyd',
+   'C:\\users\\micha\\OneDrive\\Desktop\\kurspythona\\Porównywarka '
+   'carsheringu\\dist\\main\\kivy\\graphics\\fbo.cp38-win_amd64.pyd',
+   'DATA'),
+  ('dist\\main\\kivy\\graphics\\gl_instructions.cp38-win_amd64.pyd',
+   'C:\\users\\micha\\OneDrive\\Desktop\\kurspythona\\Porównywarka '
+   'carsheringu\\dist\\main\\kivy\\graphics\\gl_instructions.cp38-win_amd64.pyd',
+   'DATA'),
+  ('dist\\main\\kivy\\graphics\\instructions.cp38-win_amd64.pyd',
+   'C:\\users\\micha\\OneDrive\\Desktop\\kurspythona\\Porównywarka '
+   'carsheringu\\dist\\main\\kivy\\graphics\\instructions.cp38-win_amd64.pyd',
+   'DATA'),
+  ('dist\\main\\kivy\\graphics\\opengl.cp38-win_amd64.pyd',
+   'C:\\users\\micha\\OneDrive\\Desktop\\kurspythona\\Porównywarka '
+   'carsheringu\\dist\\main\\kivy\\graphics\\opengl.cp38-win_amd64.pyd',
+   'DATA'),
+  ('dist\\main\\kivy\\graphics\\opengl_utils.cp38-win_amd64.pyd',
+   'C:\\users\\micha\\OneDrive\\Desktop\\kurspythona\\Porównywarka '
+   'carsheringu\\dist\\main\\kivy\\graphics\\opengl_utils.cp38-win_amd64.pyd',
+   'DATA'),
+  ('dist\\main\\kivy\\graphics\\scissor_instructions.cp38-win_amd64.pyd',
+   'C:\\users\\micha\\OneDrive\\Desktop\\kurspythona\\Porównywarka '
+   'carsheringu\\dist\\main\\kivy\\graphics\\scissor_instructions.cp38-win_amd64.pyd',
+   'DATA'),
+  ('dist\\main\\kivy\\graphics\\shader.cp38-win_amd64.pyd',
+   'C:\\users\\micha\\OneDrive\\Desktop\\kurspythona\\Porównywarka '
+   'carsheringu\\dist\\main\\kivy\\graphics\\shader.cp38-win_amd64.pyd',
+   'DATA'),
+  ('dist\\main\\kivy\\graphics\\stencil_instructions.cp38-win_amd64.pyd',
+   'C:\\users\\micha\\OneDrive\\Desktop\\kurspythona\\Porównywarka '
+   'carsheringu\\dist\\main\\kivy\\graphics\\stencil_instructions.cp38-win_amd64.pyd',
+   'DATA'),
+  ('dist\\main\\kivy\\graphics\\svg.cp38-win_amd64.pyd',
+   'C:\\users\\micha\\OneDrive\\Desktop\\kurspythona\\Porównywarka '
+   'carsheringu\\dist\\main\\kivy\\graphics\\svg.cp38-win_amd64.pyd',
+   'DATA'),
+  ('dist\\main\\kivy\\graphics\\tesselator.cp38-win_amd64.pyd',
+   'C:\\users\\micha\\OneDrive\\Desktop\\kurspythona\\Porównywarka '
+   'carsheringu\\dist\\main\\kivy\\graphics\\tesselator.cp38-win_amd64.pyd',
+   'DATA'),
+  ('dist\\main\\kivy\\graphics\\texture.cp38-win_amd64.pyd',
+   'C:\\users\\micha\\OneDrive\\Desktop\\kurspythona\\Porównywarka '
+   'carsheringu\\dist\\main\\kivy\\graphics\\texture.cp38-win_amd64.pyd',
+   'DATA'),
+  ('dist\\main\\kivy\\graphics\\transformation.cp38-win_amd64.pyd',
+   'C:\\users\\micha\\OneDrive\\Desktop\\kurspythona\\Porównywarka '
+   'carsheringu\\dist\\main\\kivy\\graphics\\transformation.cp38-win_amd64.pyd',
+   'DATA'),
+  ('dist\\main\\kivy\\graphics\\vbo.cp38-win_amd64.pyd',
+   'C:\\users\\micha\\OneDrive\\Desktop\\kurspythona\\Porównywarka '
+   'carsheringu\\dist\\main\\kivy\\graphics\\vbo.cp38-win_amd64.pyd',
+   'DATA'),
+  ('dist\\main\\kivy\\graphics\\vertex.cp38-win_amd64.pyd',
+   'C:\\users\\micha\\OneDrive\\Desktop\\kurspythona\\Porównywarka '
+   'carsheringu\\dist\\main\\kivy\\graphics\\vertex.cp38-win_amd64.pyd',
+   'DATA'),
+  ('dist\\main\\kivy\\graphics\\vertex_instructions.cp38-win_amd64.pyd',
+   'C:\\users\\micha\\OneDrive\\Desktop\\kurspythona\\Porównywarka '
+   'carsheringu\\dist\\main\\kivy\\graphics\\vertex_instructions.cp38-win_amd64.pyd',
+   'DATA'),
+  ('dist\\main\\kivy\\graphics\\cgl_backend\\cgl_debug.cp38-win_amd64.pyd',
+   'C:\\users\\micha\\OneDrive\\Desktop\\kurspythona\\Porównywarka '
+   'carsheringu\\dist\\main\\kivy\\graphics\\cgl_backend\\cgl_debug.cp38-win_amd64.pyd',
+   'DATA'),
+  ('dist\\main\\kivy\\graphics\\cgl_backend\\cgl_gl.cp38-win_amd64.pyd',
+   'C:\\users\\micha\\OneDrive\\Desktop\\kurspythona\\Porównywarka '
+   'carsheringu\\dist\\main\\kivy\\graphics\\cgl_backend\\cgl_gl.cp38-win_amd64.pyd',
+   'DATA'),
+  ('dist\\main\\kivy\\graphics\\cgl_backend\\cgl_glew.cp38-win_amd64.pyd',
+   'C:\\users\\micha\\OneDrive\\Desktop\\kurspythona\\Porównywarka '
+   'carsheringu\\dist\\main\\kivy\\graphics\\cgl_backend\\cgl_glew.cp38-win_amd64.pyd',
+   'DATA'),
+  ('dist\\main\\kivy\\graphics\\cgl_backend\\cgl_mock.cp38-win_amd64.pyd',
+   'C:\\users\\micha\\OneDrive\\Desktop\\kurspythona\\Porównywarka '
+   'carsheringu\\dist\\main\\kivy\\graphics\\cgl_backend\\cgl_mock.cp38-win_amd64.pyd',
+   'DATA'),
+  ('dist\\main\\kivy\\graphics\\cgl_backend\\cgl_sdl2.cp38-win_amd64.pyd',
+   'C:\\users\\micha\\OneDrive\\Desktop\\kurspythona\\Porównywarka '
+   'carsheringu\\dist\\main\\kivy\\graphics\\cgl_backend\\cgl_sdl2.cp38-win_amd64.pyd',
+   'DATA'),
+  ('dist\\main\\kivy\\core\\window\\window_info.cp38-win_amd64.pyd',
+   'C:\\users\\micha\\OneDrive\\Desktop\\kurspythona\\Porównywarka '
+   'carsheringu\\dist\\main\\kivy\\core\\window\\window_info.cp38-win_amd64.pyd',
+   'DATA'),
+  ('dist\\main\\kivy\\core\\window\\_window_sdl2.cp38-win_amd64.pyd',
+   'C:\\users\\micha\\OneDrive\\Desktop\\kurspythona\\Porównywarka '
+   'carsheringu\\dist\\main\\kivy\\core\\window\\_window_sdl2.cp38-win_amd64.pyd',
+   'DATA'),
+  ('dist\\main\\kivy\\core\\text\\text_layout.cp38-win_amd64.pyd',
+   'C:\\users\\micha\\OneDrive\\Desktop\\kurspythona\\Porównywarka '
+   'carsheringu\\dist\\main\\kivy\\core\\text\\text_layout.cp38-win_amd64.pyd',
+   'DATA'),
+  ('dist\\main\\kivy\\core\\text\\_text_sdl2.cp38-win_amd64.pyd',
+   'C:\\users\\micha\\OneDrive\\Desktop\\kurspythona\\Porównywarka '
+   'carsheringu\\dist\\main\\kivy\\core\\text\\_text_sdl2.cp38-win_amd64.pyd',
+   'DATA'),
+  ('dist\\main\\kivy\\core\\image\\_img_sdl2.cp38-win_amd64.pyd',
+   'C:\\users\\micha\\OneDrive\\Desktop\\kurspythona\\Porównywarka '
+   'carsheringu\\dist\\main\\kivy\\core\\image\\_img_sdl2.cp38-win_amd64.pyd',
+   'DATA'),
+  ('dist\\main\\kivy\\core\\clipboard\\_clipboard_sdl2.cp38-win_amd64.pyd',
+   'C:\\users\\micha\\OneDrive\\Desktop\\kurspythona\\Porównywarka '
+   'carsheringu\\dist\\main\\kivy\\core\\clipboard\\_clipboard_sdl2.cp38-win_amd64.pyd',
+   'DATA'),
+  ('dist\\main\\kivy\\core\\audio\\audio_sdl2.cp38-win_amd64.pyd',
+   'C:\\users\\micha\\OneDrive\\Desktop\\kurspythona\\Porównywarka '
+   'carsheringu\\dist\\main\\kivy\\core\\audio\\audio_sdl2.cp38-win_amd64.pyd',
+   'DATA'),
+  ('dist\\main\\Include\\pyconfig.h',
+   'C:\\users\\micha\\OneDrive\\Desktop\\kurspythona\\Porównywarka '
+   'carsheringu\\dist\\main\\Include\\pyconfig.h',
+   'DATA'),
+  ('dist\\main\\docutils\\writers\\s5_html\\themes\\README.txt',
+   'C:\\users\\micha\\OneDrive\\Desktop\\kurspythona\\Porównywarka '
+   'carsheringu\\dist\\main\\docutils\\writers\\s5_html\\themes\\README.txt',
+   'DATA'),
+  ('dist\\main\\docutils\\writers\\s5_html\\themes\\small-white\\framing.css',
+   'C:\\users\\micha\\OneDrive\\Desktop\\kurspythona\\Porównywarka '
+   'carsheringu\\dist\\main\\docutils\\writers\\s5_html\\themes\\small-white\\framing.css',
+   'DATA'),
+  ('dist\\main\\docutils\\writers\\s5_html\\themes\\small-white\\pretty.css',
+   'C:\\users\\micha\\OneDrive\\Desktop\\kurspythona\\Porównywarka '
+   'carsheringu\\dist\\main\\docutils\\writers\\s5_html\\themes\\small-white\\pretty.css',
+   'DATA'),
+  ('dist\\main\\docutils\\writers\\s5_html\\themes\\small-black\\pretty.css',
+   'C:\\users\\micha\\OneDrive\\Desktop\\kurspythona\\Porównywarka '
+   'carsheringu\\dist\\main\\docutils\\writers\\s5_html\\themes\\small-black\\pretty.css',
+   'DATA'),
+  ('dist\\main\\docutils\\writers\\s5_html\\themes\\small-black\\__base__',
+   'C:\\users\\micha\\OneDrive\\Desktop\\kurspythona\\Porównywarka '
+   'carsheringu\\dist\\main\\docutils\\writers\\s5_html\\themes\\small-black\\__base__',
+   'DATA'),
+  ('dist\\main\\docutils\\writers\\s5_html\\themes\\medium-white\\framing.css',
+   'C:\\users\\micha\\OneDrive\\Desktop\\kurspythona\\Porównywarka '
+   'carsheringu\\dist\\main\\docutils\\writers\\s5_html\\themes\\medium-white\\framing.css',
+   'DATA'),
+  ('dist\\main\\docutils\\writers\\s5_html\\themes\\medium-white\\pretty.css',
+   'C:\\users\\micha\\OneDrive\\Desktop\\kurspythona\\Porównywarka '
+   'carsheringu\\dist\\main\\docutils\\writers\\s5_html\\themes\\medium-white\\pretty.css',
+   'DATA'),
+  ('dist\\main\\docutils\\writers\\s5_html\\themes\\medium-black\\pretty.css',
+   'C:\\users\\micha\\OneDrive\\Desktop\\kurspythona\\Porównywarka '
+   'carsheringu\\dist\\main\\docutils\\writers\\s5_html\\themes\\medium-black\\pretty.css',
+   'DATA'),
+  ('dist\\main\\docutils\\writers\\s5_html\\themes\\medium-black\\__base__',
+   'C:\\users\\micha\\OneDrive\\Desktop\\kurspythona\\Porównywarka '
+   'carsheringu\\dist\\main\\docutils\\writers\\s5_html\\themes\\medium-black\\__base__',
+   'DATA'),
+  ('dist\\main\\docutils\\writers\\s5_html\\themes\\default\\blank.gif',
+   'C:\\users\\micha\\OneDrive\\Desktop\\kurspythona\\Porównywarka '
+   'carsheringu\\dist\\main\\docutils\\writers\\s5_html\\themes\\default\\blank.gif',
+   'DATA'),
+  ('dist\\main\\docutils\\writers\\s5_html\\themes\\default\\framing.css',
+   'C:\\users\\micha\\OneDrive\\Desktop\\kurspythona\\Porównywarka '
+   'carsheringu\\dist\\main\\docutils\\writers\\s5_html\\themes\\default\\framing.css',
+   'DATA'),
+  ('dist\\main\\docutils\\writers\\s5_html\\themes\\default\\iepngfix.htc',
+   'C:\\users\\micha\\OneDrive\\Desktop\\kurspythona\\Porównywarka '
+   'carsheringu\\dist\\main\\docutils\\writers\\s5_html\\themes\\default\\iepngfix.htc',
+   'DATA'),
+  ('dist\\main\\docutils\\writers\\s5_html\\themes\\default\\opera.css',
+   'C:\\users\\micha\\OneDrive\\Desktop\\kurspythona\\Porównywarka '
+   'carsheringu\\dist\\main\\docutils\\writers\\s5_html\\themes\\default\\opera.css',
+   'DATA'),
+  ('dist\\main\\docutils\\writers\\s5_html\\themes\\default\\outline.css',
+   'C:\\users\\micha\\OneDrive\\Desktop\\kurspythona\\Porównywarka '
+   'carsheringu\\dist\\main\\docutils\\writers\\s5_html\\themes\\default\\outline.css',
+   'DATA'),
+  ('dist\\main\\docutils\\writers\\s5_html\\themes\\default\\pretty.css',
+   'C:\\users\\micha\\OneDrive\\Desktop\\kurspythona\\Porównywarka '
+   'carsheringu\\dist\\main\\docutils\\writers\\s5_html\\themes\\default\\pretty.css',
+   'DATA'),
+  ('dist\\main\\docutils\\writers\\s5_html\\themes\\default\\print.css',
+   'C:\\users\\micha\\OneDrive\\Desktop\\kurspythona\\Porównywarka '
+   'carsheringu\\dist\\main\\docutils\\writers\\s5_html\\themes\\default\\print.css',
+   'DATA'),
+  ('dist\\main\\docutils\\writers\\s5_html\\themes\\default\\s5-core.css',
+   'C:\\users\\micha\\OneDrive\\Desktop\\kurspythona\\Porównywarka '
+   'carsheringu\\dist\\main\\docutils\\writers\\s5_html\\themes\\default\\s5-core.css',
+   'DATA'),
+  ('dist\\main\\docutils\\writers\\s5_html\\themes\\default\\slides.css',
+   'C:\\users\\micha\\OneDrive\\Desktop\\kurspythona\\Porównywarka '
+   'carsheringu\\dist\\main\\docutils\\writers\\s5_html\\themes\\default\\slides.css',
+   'DATA'),
+  ('dist\\main\\docutils\\writers\\s5_html\\themes\\default\\slides.js',
+   'C:\\users\\micha\\OneDrive\\Desktop\\kurspythona\\Porównywarka '
+   'carsheringu\\dist\\main\\docutils\\writers\\s5_html\\themes\\default\\slides.js',
+   'DATA'),
+  ('dist\\main\\docutils\\writers\\s5_html\\themes\\big-white\\framing.css',
+   'C:\\users\\micha\\OneDrive\\Desktop\\kurspythona\\Porównywarka '
+   'carsheringu\\dist\\main\\docutils\\writers\\s5_html\\themes\\big-white\\framing.css',
+   'DATA'),
+  ('dist\\main\\docutils\\writers\\s5_html\\themes\\big-white\\pretty.css',
+   'C:\\users\\micha\\OneDrive\\Desktop\\kurspythona\\Porównywarka '
+   'carsheringu\\dist\\main\\docutils\\writers\\s5_html\\themes\\big-white\\pretty.css',
+   'DATA'),
+  ('dist\\main\\docutils\\writers\\s5_html\\themes\\big-black\\framing.css',
+   'C:\\users\\micha\\OneDrive\\Desktop\\kurspythona\\Porównywarka '
+   'carsheringu\\dist\\main\\docutils\\writers\\s5_html\\themes\\big-black\\framing.css',
+   'DATA'),
+  ('dist\\main\\docutils\\writers\\s5_html\\themes\\big-black\\pretty.css',
+   'C:\\users\\micha\\OneDrive\\Desktop\\kurspythona\\Porównywarka '
+   'carsheringu\\dist\\main\\docutils\\writers\\s5_html\\themes\\big-black\\pretty.css',
+   'DATA'),
+  ('dist\\main\\docutils\\writers\\s5_html\\themes\\big-black\\__base__',
+   'C:\\users\\micha\\OneDrive\\Desktop\\kurspythona\\Porównywarka '
+   'carsheringu\\dist\\main\\docutils\\writers\\s5_html\\themes\\big-black\\__base__',
+   'DATA'),
+  ('dist\\main\\docutils\\writers\\pep_html\\pep.css',
+   'C:\\users\\micha\\OneDrive\\Desktop\\kurspythona\\Porównywarka '
+   'carsheringu\\dist\\main\\docutils\\writers\\pep_html\\pep.css',
+   'DATA'),
+  ('dist\\main\\docutils\\writers\\pep_html\\template.txt',
+   'C:\\users\\micha\\OneDrive\\Desktop\\kurspythona\\Porównywarka '
+   'carsheringu\\dist\\main\\docutils\\writers\\pep_html\\template.txt',
+   'DATA'),
+  ('dist\\main\\docutils\\writers\\odf_odt\\styles.odt',
+   'C:\\users\\micha\\OneDrive\\Desktop\\kurspythona\\Porównywarka '
+   'carsheringu\\dist\\main\\docutils\\writers\\odf_odt\\styles.odt',
+   'DATA'),
+  ('dist\\main\\docutils\\writers\\latex2e\\default.tex',
+   'C:\\users\\micha\\OneDrive\\Desktop\\kurspythona\\Porównywarka '
+   'carsheringu\\dist\\main\\docutils\\writers\\latex2e\\default.tex',
+   'DATA'),
+  ('dist\\main\\docutils\\writers\\latex2e\\titlepage.tex',
+   'C:\\users\\micha\\OneDrive\\Desktop\\kurspythona\\Porównywarka '
+   'carsheringu\\dist\\main\\docutils\\writers\\latex2e\\titlepage.tex',
+   'DATA'),
+  ('dist\\main\\docutils\\writers\\latex2e\\xelatex.tex',
+   'C:\\users\\micha\\OneDrive\\Desktop\\kurspythona\\Porównywarka '
+   'carsheringu\\dist\\main\\docutils\\writers\\latex2e\\xelatex.tex',
+   'DATA'),
+  ('dist\\main\\docutils\\writers\\html5_polyglot\\math.css',
+   'C:\\users\\micha\\OneDrive\\Desktop\\kurspythona\\Porównywarka '
+   'carsheringu\\dist\\main\\docutils\\writers\\html5_polyglot\\math.css',
+   'DATA'),
+  ('dist\\main\\docutils\\writers\\html5_polyglot\\minimal.css',
+   'C:\\users\\micha\\OneDrive\\Desktop\\kurspythona\\Porównywarka '
+   'carsheringu\\dist\\main\\docutils\\writers\\html5_polyglot\\minimal.css',
+   'DATA'),
+  ('dist\\main\\docutils\\writers\\html5_polyglot\\plain.css',
+   'C:\\users\\micha\\OneDrive\\Desktop\\kurspythona\\Porównywarka '
+   'carsheringu\\dist\\main\\docutils\\writers\\html5_polyglot\\plain.css',
+   'DATA'),
+  ('dist\\main\\docutils\\writers\\html5_polyglot\\template.txt',
+   'C:\\users\\micha\\OneDrive\\Desktop\\kurspythona\\Porównywarka '
+   'carsheringu\\dist\\main\\docutils\\writers\\html5_polyglot\\template.txt',
+   'DATA'),
+  ('dist\\main\\docutils\\writers\\html4css1\\html4css1.css',
+   'C:\\users\\micha\\OneDrive\\Desktop\\kurspythona\\Porównywarka '
+   'carsheringu\\dist\\main\\docutils\\writers\\html4css1\\html4css1.css',
+   'DATA'),
+  ('dist\\main\\docutils\\writers\\html4css1\\template.txt',
+   'C:\\users\\micha\\OneDrive\\Desktop\\kurspythona\\Porównywarka '
+   'carsheringu\\dist\\main\\docutils\\writers\\html4css1\\template.txt',
+   'DATA'),
+  ('dist\\main\\docutils\\parsers\\rst\\include\\isoamsa.txt',
+   'C:\\users\\micha\\OneDrive\\Desktop\\kurspythona\\Porównywarka '
+   'carsheringu\\dist\\main\\docutils\\parsers\\rst\\include\\isoamsa.txt',
+   'DATA'),
+  ('dist\\main\\docutils\\parsers\\rst\\include\\isoamsb.txt',
+   'C:\\users\\micha\\OneDrive\\Desktop\\kurspythona\\Porównywarka '
+   'carsheringu\\dist\\main\\docutils\\parsers\\rst\\include\\isoamsb.txt',
+   'DATA'),
+  ('dist\\main\\docutils\\parsers\\rst\\include\\isoamsc.txt',
+   'C:\\users\\micha\\OneDrive\\Desktop\\kurspythona\\Porównywarka '
+   'carsheringu\\dist\\main\\docutils\\parsers\\rst\\include\\isoamsc.txt',
+   'DATA'),
+  ('dist\\main\\docutils\\parsers\\rst\\include\\isoamsn.txt',
+   'C:\\users\\micha\\OneDrive\\Desktop\\kurspythona\\Porównywarka '
+   'carsheringu\\dist\\main\\docutils\\parsers\\rst\\include\\isoamsn.txt',
+   'DATA'),
+  ('dist\\main\\docutils\\parsers\\rst\\include\\isoamso.txt',
+   'C:\\users\\micha\\OneDrive\\Desktop\\kurspythona\\Porównywarka '
+   'carsheringu\\dist\\main\\docutils\\parsers\\rst\\include\\isoamso.txt',
+   'DATA'),
+  ('dist\\main\\docutils\\parsers\\rst\\include\\isoamsr.txt',
+   'C:\\users\\micha\\OneDrive\\Desktop\\kurspythona\\Porównywarka '
+   'carsheringu\\dist\\main\\docutils\\parsers\\rst\\include\\isoamsr.txt',
+   'DATA'),
+  ('dist\\main\\docutils\\parsers\\rst\\include\\isobox.txt',
+   'C:\\users\\micha\\OneDrive\\Desktop\\kurspythona\\Porównywarka '
+   'carsheringu\\dist\\main\\docutils\\parsers\\rst\\include\\isobox.txt',
+   'DATA'),
+  ('dist\\main\\docutils\\parsers\\rst\\include\\isocyr1.txt',
+   'C:\\users\\micha\\OneDrive\\Desktop\\kurspythona\\Porównywarka '
+   'carsheringu\\dist\\main\\docutils\\parsers\\rst\\include\\isocyr1.txt',
+   'DATA'),
+  ('dist\\main\\docutils\\parsers\\rst\\include\\isocyr2.txt',
+   'C:\\users\\micha\\OneDrive\\Desktop\\kurspythona\\Porównywarka '
+   'carsheringu\\dist\\main\\docutils\\parsers\\rst\\include\\isocyr2.txt',
+   'DATA'),
+  ('dist\\main\\docutils\\parsers\\rst\\include\\isodia.txt',
+   'C:\\users\\micha\\OneDrive\\Desktop\\kurspythona\\Porównywarka '
+   'carsheringu\\dist\\main\\docutils\\parsers\\rst\\include\\isodia.txt',
+   'DATA'),
+  ('dist\\main\\docutils\\parsers\\rst\\include\\isogrk1.txt',
+   'C:\\users\\micha\\OneDrive\\Desktop\\kurspythona\\Porównywarka '
+   'carsheringu\\dist\\main\\docutils\\parsers\\rst\\include\\isogrk1.txt',
+   'DATA'),
+  ('dist\\main\\docutils\\parsers\\rst\\include\\isogrk2.txt',
+   'C:\\users\\micha\\OneDrive\\Desktop\\kurspythona\\Porównywarka '
+   'carsheringu\\dist\\main\\docutils\\parsers\\rst\\include\\isogrk2.txt',
+   'DATA'),
+  ('dist\\main\\docutils\\parsers\\rst\\include\\isogrk3.txt',
+   'C:\\users\\micha\\OneDrive\\Desktop\\kurspythona\\Porównywarka '
+   'carsheringu\\dist\\main\\docutils\\parsers\\rst\\include\\isogrk3.txt',
+   'DATA'),
+  ('dist\\main\\docutils\\parsers\\rst\\include\\isogrk4-wide.txt',
+   'C:\\users\\micha\\OneDrive\\Desktop\\kurspythona\\Porównywarka '
+   'carsheringu\\dist\\main\\docutils\\parsers\\rst\\include\\isogrk4-wide.txt',
+   'DATA'),
+  ('dist\\main\\docutils\\parsers\\rst\\include\\isogrk4.txt',
+   'C:\\users\\micha\\OneDrive\\Desktop\\kurspythona\\Porównywarka '
+   'carsheringu\\dist\\main\\docutils\\parsers\\rst\\include\\isogrk4.txt',
+   'DATA'),
+  ('dist\\main\\docutils\\parsers\\rst\\include\\isolat1.txt',
+   'C:\\users\\micha\\OneDrive\\Desktop\\kurspythona\\Porównywarka '
+   'carsheringu\\dist\\main\\docutils\\parsers\\rst\\include\\isolat1.txt',
+   'DATA'),
+  ('dist\\main\\docutils\\parsers\\rst\\include\\isolat2.txt',
+   'C:\\users\\micha\\OneDrive\\Desktop\\kurspythona\\Porównywarka '
+   'carsheringu\\dist\\main\\docutils\\parsers\\rst\\include\\isolat2.txt',
+   'DATA'),
+  ('dist\\main\\docutils\\parsers\\rst\\include\\isomfrk-wide.txt',
+   'C:\\users\\micha\\OneDrive\\Desktop\\kurspythona\\Porównywarka '
+   'carsheringu\\dist\\main\\docutils\\parsers\\rst\\include\\isomfrk-wide.txt',
+   'DATA'),
+  ('dist\\main\\docutils\\parsers\\rst\\include\\isomfrk.txt',
+   'C:\\users\\micha\\OneDrive\\Desktop\\kurspythona\\Porównywarka '
+   'carsheringu\\dist\\main\\docutils\\parsers\\rst\\include\\isomfrk.txt',
+   'DATA'),
+  ('dist\\main\\docutils\\parsers\\rst\\include\\isomopf-wide.txt',
+   'C:\\users\\micha\\OneDrive\\Desktop\\kurspythona\\Porównywarka '
+   'carsheringu\\dist\\main\\docutils\\parsers\\rst\\include\\isomopf-wide.txt',
+   'DATA'),
+  ('dist\\main\\docutils\\parsers\\rst\\include\\isomopf.txt',
+   'C:\\users\\micha\\OneDrive\\Desktop\\kurspythona\\Porównywarka '
+   'carsheringu\\dist\\main\\docutils\\parsers\\rst\\include\\isomopf.txt',
+   'DATA'),
+  ('dist\\main\\docutils\\parsers\\rst\\include\\isomscr-wide.txt',
+   'C:\\users\\micha\\OneDrive\\Desktop\\kurspythona\\Porównywarka '
+   'carsheringu\\dist\\main\\docutils\\parsers\\rst\\include\\isomscr-wide.txt',
+   'DATA'),
+  ('dist\\main\\docutils\\parsers\\rst\\include\\isomscr.txt',
+   'C:\\users\\micha\\OneDrive\\Desktop\\kurspythona\\Porównywarka '
+   'carsheringu\\dist\\main\\docutils\\parsers\\rst\\include\\isomscr.txt',
+   'DATA'),
+  ('dist\\main\\docutils\\parsers\\rst\\include\\isonum.txt',
+   'C:\\users\\micha\\OneDrive\\Desktop\\kurspythona\\Porównywarka '
+   'carsheringu\\dist\\main\\docutils\\parsers\\rst\\include\\isonum.txt',
+   'DATA'),
+  ('dist\\main\\docutils\\parsers\\rst\\include\\isopub.txt',
+   'C:\\users\\micha\\OneDrive\\Desktop\\kurspythona\\Porównywarka '
+   'carsheringu\\dist\\main\\docutils\\parsers\\rst\\include\\isopub.txt',
+   'DATA'),
+  ('dist\\main\\docutils\\parsers\\rst\\include\\isotech.txt',
+   'C:\\users\\micha\\OneDrive\\Desktop\\kurspythona\\Porównywarka '
+   'carsheringu\\dist\\main\\docutils\\parsers\\rst\\include\\isotech.txt',
+   'DATA'),
+  ('dist\\main\\docutils\\parsers\\rst\\include\\mmlalias.txt',
+   'C:\\users\\micha\\OneDrive\\Desktop\\kurspythona\\Porównywarka '
+   'carsheringu\\dist\\main\\docutils\\parsers\\rst\\include\\mmlalias.txt',
+   'DATA'),
+  ('dist\\main\\docutils\\parsers\\rst\\include\\mmlextra-wide.txt',
+   'C:\\users\\micha\\OneDrive\\Desktop\\kurspythona\\Porównywarka '
+   'carsheringu\\dist\\main\\docutils\\parsers\\rst\\include\\mmlextra-wide.txt',
+   'DATA'),
+  ('dist\\main\\docutils\\parsers\\rst\\include\\mmlextra.txt',
+   'C:\\users\\micha\\OneDrive\\Desktop\\kurspythona\\Porównywarka '
+   'carsheringu\\dist\\main\\docutils\\parsers\\rst\\include\\mmlextra.txt',
+   'DATA'),
+  ('dist\\main\\docutils\\parsers\\rst\\include\\README.txt',
+   'C:\\users\\micha\\OneDrive\\Desktop\\kurspythona\\Porównywarka '
+   'carsheringu\\dist\\main\\docutils\\parsers\\rst\\include\\README.txt',
+   'DATA'),
+  ('dist\\main\\docutils\\parsers\\rst\\include\\s5defs.txt',
+   'C:\\users\\micha\\OneDrive\\Desktop\\kurspythona\\Porównywarka '
+   'carsheringu\\dist\\main\\docutils\\parsers\\rst\\include\\s5defs.txt',
+   'DATA'),
+  ('dist\\main\\docutils\\parsers\\rst\\include\\xhtml1-lat1.txt',
+   'C:\\users\\micha\\OneDrive\\Desktop\\kurspythona\\Porównywarka '
+   'carsheringu\\dist\\main\\docutils\\parsers\\rst\\include\\xhtml1-lat1.txt',
+   'DATA'),
+  ('dist\\main\\docutils\\parsers\\rst\\include\\xhtml1-special.txt',
+   'C:\\users\\micha\\OneDrive\\Desktop\\kurspythona\\Porównywarka '
+   'carsheringu\\dist\\main\\docutils\\parsers\\rst\\include\\xhtml1-special.txt',
+   'DATA'),
+  ('dist\\main\\docutils\\parsers\\rst\\include\\xhtml1-symbol.txt',
+   'C:\\users\\micha\\OneDrive\\Desktop\\kurspythona\\Porównywarka '
+   'carsheringu\\dist\\main\\docutils\\parsers\\rst\\include\\xhtml1-symbol.txt',
+   'DATA'),
+  ('dist\\main\\certifi\\cacert.pem',
+   'C:\\users\\micha\\OneDrive\\Desktop\\kurspythona\\Porównywarka '
+   'carsheringu\\dist\\main\\certifi\\cacert.pem',
+   'DATA'),
+  ('build\\main\\Analysis-00.toc',
+   'C:\\users\\micha\\OneDrive\\Desktop\\kurspythona\\Porównywarka '
+   'carsheringu\\build\\main\\Analysis-00.toc',
+   'DATA'),
+  ('build\\main\\base_library.zip',
+   'C:\\users\\micha\\OneDrive\\Desktop\\kurspythona\\Porównywarka '
+   'carsheringu\\build\\main\\base_library.zip',
+   'DATA'),
+  ('build\\main\\COLLECT-00.toc',
+   'C:\\users\\micha\\OneDrive\\Desktop\\kurspythona\\Porównywarka '
+   'carsheringu\\build\\main\\COLLECT-00.toc',
+   'DATA'),
+  ('build\\main\\EXE-00.toc',
+   'C:\\users\\micha\\OneDrive\\Desktop\\kurspythona\\Porównywarka '
+   'carsheringu\\build\\main\\EXE-00.toc',
+   'DATA'),
+  ('build\\main\\main.exe',
+   'C:\\users\\micha\\OneDrive\\Desktop\\kurspythona\\Porównywarka '
+   'carsheringu\\build\\main\\main.exe',
+   'DATA'),
+  ('build\\main\\main.exe.manifest',
+   'C:\\users\\micha\\OneDrive\\Desktop\\kurspythona\\Porównywarka '
+   'carsheringu\\build\\main\\main.exe.manifest',
+   'DATA'),
+  ('build\\main\\PKG-00.pkg',
+   'C:\\users\\micha\\OneDrive\\Desktop\\kurspythona\\Porównywarka '
+   'carsheringu\\build\\main\\PKG-00.pkg',
+   'DATA'),
+  ('build\\main\\PKG-00.toc',
+   'C:\\users\\micha\\OneDrive\\Desktop\\kurspythona\\Porównywarka '
+   'carsheringu\\build\\main\\PKG-00.toc',
+   'DATA'),
+  ('build\\main\\PYZ-00.pyz',
+   'C:\\users\\micha\\OneDrive\\Desktop\\kurspythona\\Porównywarka '
+   'carsheringu\\build\\main\\PYZ-00.pyz',
+   'DATA'),
+  ('build\\main\\PYZ-00.toc',
+   'C:\\users\\micha\\OneDrive\\Desktop\\kurspythona\\Porównywarka '
+   'carsheringu\\build\\main\\PYZ-00.toc',
+   'DATA'),
+  ('build\\main\\Tree-00.toc',
+   'C:\\users\\micha\\OneDrive\\Desktop\\kurspythona\\Porównywarka '
+   'carsheringu\\build\\main\\Tree-00.toc',
+   'DATA'),
+  ('build\\main\\Tree-01.toc',
+   'C:\\users\\micha\\OneDrive\\Desktop\\kurspythona\\Porównywarka '
+   'carsheringu\\build\\main\\Tree-01.toc',
+   'DATA'),
+  ('build\\main\\Tree-02.toc',
+   'C:\\users\\micha\\OneDrive\\Desktop\\kurspythona\\Porównywarka '
+   'carsheringu\\build\\main\\Tree-02.toc',
+   'DATA'),
+  ('build\\main\\warn-main.txt',
+   'C:\\users\\micha\\OneDrive\\Desktop\\kurspythona\\Porównywarka '
+   'carsheringu\\build\\main\\warn-main.txt',
+   'DATA'),
+  ('build\\main\\xref-main.html',
+   'C:\\users\\micha\\OneDrive\\Desktop\\kurspythona\\Porównywarka '
+   'carsheringu\\build\\main\\xref-main.html',
+   'DATA'),
+  ('.git\\COMMIT_EDITMSG',
+   'C:\\users\\micha\\OneDrive\\Desktop\\kurspythona\\Porównywarka '
+   'carsheringu\\.git\\COMMIT_EDITMSG',
+   'DATA'),
+  ('.git\\config',
+   'C:\\users\\micha\\OneDrive\\Desktop\\kurspythona\\Porównywarka '
+   'carsheringu\\.git\\config',
+   'DATA'),
+  ('.git\\description',
+   'C:\\users\\micha\\OneDrive\\Desktop\\kurspythona\\Porównywarka '
+   'carsheringu\\.git\\description',
+   'DATA'),
+  ('.git\\FETCH_HEAD',
+   'C:\\users\\micha\\OneDrive\\Desktop\\kurspythona\\Porównywarka '
+   'carsheringu\\.git\\FETCH_HEAD',
+   'DATA'),
+  ('.git\\HEAD',
+   'C:\\users\\micha\\OneDrive\\Desktop\\kurspythona\\Porównywarka '
+   'carsheringu\\.git\\HEAD',
+   'DATA'),
+  ('.git\\index',
+   'C:\\users\\micha\\OneDrive\\Desktop\\kurspythona\\Porównywarka '
+   'carsheringu\\.git\\index',
+   'DATA'),
+  ('.git\\ORIG_HEAD',
+   'C:\\users\\micha\\OneDrive\\Desktop\\kurspythona\\Porównywarka '
+   'carsheringu\\.git\\ORIG_HEAD',
+   'DATA'),
+  ('.git\\refs\\remotes\\origin\\main',
+   'C:\\users\\micha\\OneDrive\\Desktop\\kurspythona\\Porównywarka '
+   'carsheringu\\.git\\refs\\remotes\\origin\\main',
+   'DATA'),
+  ('.git\\refs\\heads\\kivy_gui',
+   'C:\\users\\micha\\OneDrive\\Desktop\\kurspythona\\Porównywarka '
+   'carsheringu\\.git\\refs\\heads\\kivy_gui',
+   'DATA'),
+  ('.git\\refs\\heads\\main',
+   'C:\\users\\micha\\OneDrive\\Desktop\\kurspythona\\Porównywarka '
+   'carsheringu\\.git\\refs\\heads\\main',
+   'DATA'),
+  ('.git\\objects\\f1\\0f14d21f7821ac0a7fe62a8e9a468f268ed0f0',
+   'C:\\users\\micha\\OneDrive\\Desktop\\kurspythona\\Porównywarka '
+   'carsheringu\\.git\\objects\\f1\\0f14d21f7821ac0a7fe62a8e9a468f268ed0f0',
+   'DATA'),
+  ('.git\\objects\\e1\\f0e6c49b82b7ac3669a84a66ea7e87ff155c98',
+   'C:\\users\\micha\\OneDrive\\Desktop\\kurspythona\\Porównywarka '
+   'carsheringu\\.git\\objects\\e1\\f0e6c49b82b7ac3669a84a66ea7e87ff155c98',
+   'DATA'),
+  ('.git\\objects\\e0\\d05927826072e538ce8e48ec5d9ba69fe2ae3f',
+   'C:\\users\\micha\\OneDrive\\Desktop\\kurspythona\\Porównywarka '
+   'carsheringu\\.git\\objects\\e0\\d05927826072e538ce8e48ec5d9ba69fe2ae3f',
+   'DATA'),
+  ('.git\\objects\\ac\\65d596f672a931b49bc728b7bbbcf98c742142',
+   'C:\\users\\micha\\OneDrive\\Desktop\\kurspythona\\Porównywarka '
+   'carsheringu\\.git\\objects\\ac\\65d596f672a931b49bc728b7bbbcf98c742142',
+   'DATA'),
+  ('.git\\objects\\a6\\23bce75cde1f80e7c41608b687b1675c9c7501',
+   'C:\\users\\micha\\OneDrive\\Desktop\\kurspythona\\Porównywarka '
+   'carsheringu\\.git\\objects\\a6\\23bce75cde1f80e7c41608b687b1675c9c7501',
+   'DATA'),
+  ('.git\\objects\\76\\5d3268b093fcd3499a0f2601219dbfceb727ed',
+   'C:\\users\\micha\\OneDrive\\Desktop\\kurspythona\\Porównywarka '
+   'carsheringu\\.git\\objects\\76\\5d3268b093fcd3499a0f2601219dbfceb727ed',
+   'DATA'),
+  ('.git\\objects\\4f\\2809dc6d69f68866d079a4663fa59beddd2521',
+   'C:\\users\\micha\\OneDrive\\Desktop\\kurspythona\\Porównywarka '
+   'carsheringu\\.git\\objects\\4f\\2809dc6d69f68866d079a4663fa59beddd2521',
+   'DATA'),
+  ('.git\\objects\\4b\\825dc642cb6eb9a060e54bf8d69288fbee4904',
+   'C:\\users\\micha\\OneDrive\\Desktop\\kurspythona\\Porównywarka '
+   'carsheringu\\.git\\objects\\4b\\825dc642cb6eb9a060e54bf8d69288fbee4904',
+   'DATA'),
+  ('.git\\objects\\46\\fddb202558ee5b5a01eba43239fa67463fa534',
+   'C:\\users\\micha\\OneDrive\\Desktop\\kurspythona\\Porównywarka '
+   'carsheringu\\.git\\objects\\46\\fddb202558ee5b5a01eba43239fa67463fa534',
+   'DATA'),
+  ('.git\\objects\\45\\a38ac3dbe8dca21d46085eff0264aa10af04b0',
+   'C:\\users\\micha\\OneDrive\\Desktop\\kurspythona\\Porównywarka '
+   'carsheringu\\.git\\objects\\45\\a38ac3dbe8dca21d46085eff0264aa10af04b0',
+   'DATA'),
+  ('.git\\objects\\38\\ff0b758c21aa5b66398429e379cd87f6de47f6',
+   'C:\\users\\micha\\OneDrive\\Desktop\\kurspythona\\Porównywarka '
+   'carsheringu\\.git\\objects\\38\\ff0b758c21aa5b66398429e379cd87f6de47f6',
+   'DATA'),
+  ('.git\\objects\\30\\504060ee5cb97d496a3c2abdaf99508ef97fb1',
+   'C:\\users\\micha\\OneDrive\\Desktop\\kurspythona\\Porównywarka '
+   'carsheringu\\.git\\objects\\30\\504060ee5cb97d496a3c2abdaf99508ef97fb1',
+   'DATA'),
+  ('.git\\logs\\HEAD',
+   'C:\\users\\micha\\OneDrive\\Desktop\\kurspythona\\Porównywarka '
+   'carsheringu\\.git\\logs\\HEAD',
+   'DATA'),
+  ('.git\\logs\\refs\\remotes\\origin\\main',
+   'C:\\users\\micha\\OneDrive\\Desktop\\kurspythona\\Porównywarka '
+   'carsheringu\\.git\\logs\\refs\\remotes\\origin\\main',
+   'DATA'),
+  ('.git\\logs\\refs\\heads\\kivy_gui',
+   'C:\\users\\micha\\OneDrive\\Desktop\\kurspythona\\Porównywarka '
+   'carsheringu\\.git\\logs\\refs\\heads\\kivy_gui',
+   'DATA'),
+  ('.git\\logs\\refs\\heads\\main',
+   'C:\\users\\micha\\OneDrive\\Desktop\\kurspythona\\Porównywarka '
+   'carsheringu\\.git\\logs\\refs\\heads\\main',
+   'DATA'),
+  ('.git\\info\\exclude',
+   'C:\\users\\micha\\OneDrive\\Desktop\\kurspythona\\Porównywarka '
+   'carsheringu\\.git\\info\\exclude',
+   'DATA'),
+  ('.git\\hooks\\applypatch-msg.sample',
+   'C:\\users\\micha\\OneDrive\\Desktop\\kurspythona\\Porównywarka '
+   'carsheringu\\.git\\hooks\\applypatch-msg.sample',
+   'DATA'),
+  ('.git\\hooks\\commit-msg.sample',
+   'C:\\users\\micha\\OneDrive\\Desktop\\kurspythona\\Porównywarka '
+   'carsheringu\\.git\\hooks\\commit-msg.sample',
+   'DATA'),
+  ('.git\\hooks\\fsmonitor-watchman.sample',
+   'C:\\users\\micha\\OneDrive\\Desktop\\kurspythona\\Porównywarka '
+   'carsheringu\\.git\\hooks\\fsmonitor-watchman.sample',
+   'DATA'),
+  ('.git\\hooks\\post-update.sample',
+   'C:\\users\\micha\\OneDrive\\Desktop\\kurspythona\\Porównywarka '
+   'carsheringu\\.git\\hooks\\post-update.sample',
+   'DATA'),
+  ('.git\\hooks\\pre-applypatch.sample',
+   'C:\\users\\micha\\OneDrive\\Desktop\\kurspythona\\Porównywarka '
+   'carsheringu\\.git\\hooks\\pre-applypatch.sample',
+   'DATA'),
+  ('.git\\hooks\\pre-commit.sample',
+   'C:\\users\\micha\\OneDrive\\Desktop\\kurspythona\\Porównywarka '
+   'carsheringu\\.git\\hooks\\pre-commit.sample',
+   'DATA'),
+  ('.git\\hooks\\pre-merge-commit.sample',
+   'C:\\users\\micha\\OneDrive\\Desktop\\kurspythona\\Porównywarka '
+   'carsheringu\\.git\\hooks\\pre-merge-commit.sample',
+   'DATA'),
+  ('.git\\hooks\\pre-push.sample',
+   'C:\\users\\micha\\OneDrive\\Desktop\\kurspythona\\Porównywarka '
+   'carsheringu\\.git\\hooks\\pre-push.sample',
+   'DATA'),
+  ('.git\\hooks\\pre-rebase.sample',
+   'C:\\users\\micha\\OneDrive\\Desktop\\kurspythona\\Porównywarka '
+   'carsheringu\\.git\\hooks\\pre-rebase.sample',
+   'DATA'),
+  ('.git\\hooks\\pre-receive.sample',
+   'C:\\users\\micha\\OneDrive\\Desktop\\kurspythona\\Porównywarka '
+   'carsheringu\\.git\\hooks\\pre-receive.sample',
+   'DATA'),
+  ('.git\\hooks\\prepare-commit-msg.sample',
+   'C:\\users\\micha\\OneDrive\\Desktop\\kurspythona\\Porównywarka '
+   'carsheringu\\.git\\hooks\\prepare-commit-msg.sample',
+   'DATA'),
+  ('.git\\hooks\\update.sample',
+   'C:\\users\\micha\\OneDrive\\Desktop\\kurspythona\\Porównywarka '
+   'carsheringu\\.git\\hooks\\update.sample',
+   'DATA')])
